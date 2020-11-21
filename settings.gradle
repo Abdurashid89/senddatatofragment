@@ -1,0 +1,3 @@
+include ':mutualexchangesdatafragments'
+include ':app'
+rootProject.name = "SendDataSecondFragment"
